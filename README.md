@@ -7,7 +7,7 @@ For more context on the design and usage of this library see our publication ["E
 If you use this library in your work/research, please cite us:
 ```bibtex
 @ARTICLE{11180943,
-  author={Muñoz, Manuel Olguín and Klatzky, Roberta and Satyanarayanan, Mahadev and Gross, James},
+  author={Olguín Muñoz, Manuel and Klatzky, Roberta and Satyanarayanan, Mahadev and Gross, James},
   journal={IEEE Access}, 
   title={Emulating Reactive Workloads for Cyber-Human Systems: A Data-Driven Methodology}, 
   year={2025},
